@@ -17268,3 +17268,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.20-16.25.06:768][949]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/MainCharacterDE1486184E5011A06E152E92C02969F5.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Character/MainCharacter.uasset'
 [2021.10.20-16.25.06:781][949]AssetCheck: New page: Asset Save: MainCharacter
 [2021.10.20-16.25.06:781][949]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Character/MainCharacter.MainCharacter
+[2021.10.20-16.33.09:218][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Character/MainCharacter" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Character/MainCharacter.uasset" SILENT=true
+[2021.10.20-16.33.09:251][413]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/MainCharacter7EEF8FBD4EDE30E5AEFB18BBF4C33336.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Character/MainCharacter.uasset'
+[2021.10.20-16.33.09:265][413]AssetCheck: New page: Asset Save: MainCharacter
+[2021.10.20-16.33.09:265][413]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Character/MainCharacter.MainCharacter
+[2021.10.20-16.33.10:469][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.20-16.33.10:492][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.10.20-16.33.10:578][541]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap2D8090D6470DB9D9ACE2B8B51B75A989.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.20-16.33.10:584][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.20-16.33.10:603][541]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltData93A91DCB4623B378DEE4C8B114D4800F.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.20-16.33.10:613][541]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.20-16.33.10:613][541]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.20-16.33.10:613][541]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
