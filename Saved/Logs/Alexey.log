@@ -879,3 +879,904 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.20-01.42.54:809][112]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.20-01.42.54:809][112]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
 [2021.10.20-01.42.54:809][112]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.20-01.43.30:172][586]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-01.45.42:338][ 11]BlueprintLog: New page: Compile BaseLamp
+[2021.10.20-01.45.42:361][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.10.20-01.45.43:032][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-01.45.43:039][ 64]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLamp88C498F84E7973D30CBBB180C44E50C8.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-01.45.43:052][ 64]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-01.45.43:053][ 64]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-01.46.53:655][237]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.20-01.47.25:611][877]LogSlate: Window 'Save Asset As' being destroyed
+[2021.10.20-01.49.06:968][459]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.20-01.49.52:271][327]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.20-01.50.57:734][169]BlueprintLog: New page: Compile BaseLamp
+[2021.10.20-01.50.58:081][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.10.20-01.50.59:199][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-01.50.59:206][272]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLamp5B8517EB4D5C1CE2F10786A569B82519.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-01.50.59:218][272]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-01.50.59:218][272]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-01.51.00:261][385]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-01.51.00:267][385]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-01.51.00:270][385]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-01.51.00:270][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-01.51.14:885][164]LogActorFactory: Actor Factory created Plane
+[2021.10.20-01.51.16:578][359]LogActorFactory: Actor Factory created Plane
+[2021.10.20-01.51.25:572][369]Cmd: DELETE
+[2021.10.20-01.51.25:573][369]Cmd: ACTOR DELETE
+[2021.10.20-01.51.25:574][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.20-01.51.25:586][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.10.20-01.51.25:591][369]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.10.20-01.51.29:770][784]LogActorFactory: Actor Factory created Cube
+[2021.10.20-01.51.31:107][935]LogActorFactory: Actor Factory created Cube
+[2021.10.20-01.51.31:534][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.10.20-01.51.32:156][ 57]Cmd: DELETE
+[2021.10.20-01.51.32:157][ 57]Cmd: ACTOR DELETE
+[2021.10.20-01.51.32:158][ 57]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.20-01.51.32:169][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.10.20-01.51.32:170][ 57]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.10.20-01.51.49:552][362]LogActorFactory: Actor Factory created Cube
+[2021.10.20-01.51.50:671][491]LogActorFactory: Actor Factory created Cube
+[2021.10.20-01.51.55:442][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.10.20-01.52.25:194][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.10.20-01.52.29:705][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-01.52.29:708][120]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLamp499527264C3CC51C7CF8EF9E5705088E.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-01.52.29:719][120]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-01.52.29:720][120]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-01.54.29:139][182]LogEditorViewport: Clicking on Actor (LMB): BaseLamp_C (BaseLamp)
+[2021.10.20-01.54.43:770][177]LogEditorViewport: Clicking on Actor (LMB): BaseLamp_C (BaseLamp)
+[2021.10.20-01.55.09:282][106]LogEditorViewport: Clicking on Actor (LMB): BaseLamp_C (BaseLamp)
+[2021.10.20-01.55.10:348][232]LogEditorViewport: Clicking on Actor (LMB): BaseLamp_C (BaseLamp2)
+[2021.10.20-01.55.19:593][339]LogEditorViewport: Clicking on Actor (LMB): BaseLamp_C (BaseLamp2)
+[2021.10.20-01.55.54:278][665]LogEditorViewport: Clicking on Actor (LMB): BaseLamp_C (BaseLamp)
+[2021.10.20-01.56.12:865][855]LogEditorViewport: Clicking on Actor (LMB): BaseLamp_C (BaseLamp2)
+[2021.10.20-01.56.51:556][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.10.20-01.57.03:406][813]LogEditorViewport: Clicking on Actor (LMB): BaseLamp_C (BaseLamp3)
+[2021.10.20-01.57.12:491][898]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube2)
+[2021.10.20-01.57.13:314][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.10.20-01.57.19:356][691]LogEditorViewport: Clicking on Actor (LMB): BaseLamp_C (BaseLamp2)
+[2021.10.20-01.57.29:732][880]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-01.58.24:782][890]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.20-01.58.26:582][ 61]BlueprintLog: New page: Compile BaseLamp
+[2021.10.20-01.58.26:713][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.10.20-01.58.27:447][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-01.58.27:454][121]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLamp2280B2C84F6265F0F9756493404C8804.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-01.58.27:467][121]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-01.58.27:467][121]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-01.58.28:796][266]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-01.58.28:802][266]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-01.58.28:804][266]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-01.58.28:804][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-01.58.38:796][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-01.59.23:338][889]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.20-01.59.25:516][116]BlueprintLog: New page: Compile BaseLamp
+[2021.10.20-01.59.25:654][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.10.20-01.59.26:434][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-01.59.26:441][192]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLamp5B5DA51B43187B15787D19A117D889DD.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-01.59.26:454][192]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-01.59.26:454][192]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-01.59.27:598][318]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-01.59.27:604][318]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-01.59.27:606][318]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-01.59.27:606][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-01.59.30:396][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-01.59.57:848][352]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.20-01.59.59:337][507]BlueprintLog: New page: Compile BaseLamp
+[2021.10.20-01.59.59:394][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.10.20-02.00.26:328][489]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.20-02.00.42:282][120]BlueprintLog: New page: Compile BaseLamp
+[2021.10.20-02.00.42:376][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.10.20-02.00.42:803][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-02.00.42:810][155]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLamp7C426BF247594064E1E492BB96F5F108.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-02.00.42:826][155]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-02.00.42:826][155]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-02.00.43:790][253]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-02.00.43:796][253]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-02.00.43:798][253]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-02.00.43:798][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.01.02:117][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.20-02.01.02:129][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.10.20-02.01.02:148][419]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap8D94E7214A39A846C2BA7EA6AF789D31.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.20-02.01.02:154][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.20-02.01.02:164][419]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltData4DBA8B0042A613A3C8DC749AEAA297C2.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.20-02.01.02:176][419]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.20-02.01.02:176][419]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.20-02.01.02:176][419]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.20-02.01.15:238][662]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.20-02.01.15:245][662]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.10.20-02.01.15:255][662]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.10.20-02.01.16:930][856]LogContentBrowser: Attempting asset rename: NewBlueprint -> Fan
+[2021.10.20-02.01.16:933][856]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.10.20-02.04.06:685][848]LogStaticMesh: Building static mesh SM_PillarFrame300...
+[2021.10.20-02.04.06:727][848]LogStaticMesh: Built static mesh [0.04s] /Game/Download/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300
+[2021.10.20-02.04.06:769][848]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Download/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300
+[2021.10.20-02.04.49:326][790]LogStaticMesh: Building static mesh SM_PillarFrame300...
+[2021.10.20-02.04.49:362][790]LogStaticMesh: Built static mesh [0.04s] /Game/Download/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300
+[2021.10.20-02.05.17:406][992]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/SM_PillarFrame3009752540543F23927D7646A840E397919.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Download/StarterContent/Props/SM_PillarFrame300.uasset'
+[2021.10.20-02.05.17:423][992]AssetCheck: New page: Asset Save: SM_PillarFrame300
+[2021.10.20-02.05.17:423][992]LogContentValidation: Display: Validating StaticMesh /Game/Download/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300
+[2021.10.20-02.05.56:974][402]LogSlate: Window 'SM_PillarFrame300' being destroyed
+[2021.10.20-02.05.56:980][402]LogSlate: Window 'SM_PillarFrame300' being destroyed
+[2021.10.20-02.05.56:983][402]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-02.05.56:983][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.06.03:497][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexey/Interaction/Fan.Fan
+[2021.10.20-02.08.20:447][785]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Fan_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.907 Y=0.000 Z=0.250
+[2021.10.20-02.08.20:447][785]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.20-02.08.20:447][785]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.20-02.08.21:537][915]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.Fan_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.907 Y=0.000 Z=0.250
+[2021.10.20-02.08.21:537][915]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.20-02.08.21:537][915]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.20-02.08.31:308][ 29]BlueprintLog: New page: Compile Fan
+[2021.10.20-02.08.31:388][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.10.20-02.10.37:671][743]BlueprintLog: New page: Compile Fan
+[2021.10.20-02.10.37:743][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.10.20-02.10.38:388][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/Fan" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset" SILENT=true
+[2021.10.20-02.10.38:395][801]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/FanC04A48014F0797A46BB397BC9EF26D35.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset'
+[2021.10.20-02.10.38:410][801]AssetCheck: New page: Asset Save: Fan
+[2021.10.20-02.10.38:410][801]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/Fan.Fan
+[2021.10.20-02.10.39:448][903]LogSlate: Window 'Fan' being destroyed
+[2021.10.20-02.10.39:454][903]LogSlate: Window 'Fan' being destroyed
+[2021.10.20-02.10.39:456][903]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-02.10.39:456][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.10.50:244][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-02.11.46:908][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.10.20-02.11.46:924][576]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_Auto179DACD074176ADACCCCA62A1B271ADE7.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Saved/Autosaves/Game/Alexey/Levels/NewMap_Auto1.umap'
+[2021.10.20-02.11.46:924][576]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Alexey/Levels/NewMap' took 0.031
+[2021.10.20-02.11.46:924][576]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2021.10.20-02.11.46:925][576]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Alexey/Interaction/BaseLamp] ([1] browsable assets)...
+[2021.10.20-02.11.46:932][576]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp]
+[2021.10.20-02.11.46:932][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/Alexey/Interaction/BaseLamp]
+[2021.10.20-02.11.46:939][576]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLamp_Auto1CAECCBAA4DDEFE3C845CC8941EA9F6CF.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Saved/Autosaves/Game/Alexey/Interaction/BaseLamp_Auto1.uasset'
+[2021.10.20-02.11.46:940][576]LogFileHelpers: Auto-saving content packages took 0.015
+[2021.10.20-02.14.47:736][603]BlueprintLog: New page: Compile BaseLamp
+[2021.10.20-02.14.47:767][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.10.20-02.14.48:598][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-02.14.48:607][667]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLampECDA0A26487F4923ED6BBC9544DC3D04.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-02.14.48:619][667]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-02.14.48:619][667]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-02.15.02:357][951]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-02.15.02:365][951]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-02.15.02:368][951]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-02.15.02:368][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.15.33:854][253]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-02.16.15:355][415]BlueprintLog: New page: Compile BaseLamp
+[2021.10.20-02.16.15:388][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.10.20-02.16.16:103][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-02.16.16:112][481]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLampD844FCD14AB8BE14A1DB479128A40FB5.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-02.16.16:124][481]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-02.16.16:124][481]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-02.16.18:849][748]LogBlueprintUserMessages: [BaseLamp_C_1] Hello
+[2021.10.20-02.16.22:085][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.20-02.16.22:092][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.20-02.16.22:092][ 51]PIE: New page: PIE session: NewMap (20 окт. 2021 г., 08:16:22)
+[2021.10.20-02.16.22:093][ 51]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.20-02.16.22:094][ 51]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.20-02.16.22:094][ 51]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.20-02.16.22:098][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004362s)
+[2021.10.20-02.16.22:099][ 51]LogAIModule: Creating AISystem for world NewMap
+[2021.10.20-02.16.22:099][ 51]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2021.10.20-02.16.22:099][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.005276s)
+[2021.10.20-02.16.22:114][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.20-02.16.22:115][ 51]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.20-02.16.22:115][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.20-02.16.22:115][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.20-02.16.22:115][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.20-02.16.22:115][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.20-02.16.22:115][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.20-02.16.22:115][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.20-02.16.22:115][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.20-02.16.22:115][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.20-02.16.22:115][ 51]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.20-02.16.22:115][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.20-02.16.22:119][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-02.16.22:119][ 51]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-02.16.22:134][ 51]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.20-02.16.22:135][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.20-02.16.22:135][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.20-02.16.22:135][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.20-02.16.22:135][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.20-02.16.22:135][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.20-02.16.22:135][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.20-02.16.22:146][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.20-02.16.22:146][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.20-02.16.22:146][ 51]LogInit: FAudioDevice initialized.
+[2021.10.20-02.16.22:146][ 51]LogAudio: Display: Audio Device (ID: 2) registered with world 'NewMap'.
+[2021.10.20-02.16.22:167][ 51]LogLoad: Game class is 'MainGM_C'
+[2021.10.20-02.16.22:168][ 51]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.20-05.16.22
+[2021.10.20-02.16.22:168][ 51]LogWorld: Bringing up level for play took: 0.000810
+[2021.10.20-02.16.22:169][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.10.20-02.16.22:176][ 51]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.10.20-02.16.22:177][ 51]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.16.22:177][ 51]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.16.22:177][ 51]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.16.22:177][ 51]PIE: Server logged in
+[2021.10.20-02.16.22:178][ 51]PIE: Play in editor total start time 0,088 seconds.
+[2021.10.20-02.16.32:775][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-02.16.32:775][933]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.20-02.16.32:775][933]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-02.16.32:775][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.16.32:782][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.20-02.16.32:790][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.16.32:807][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.20-02.16.32:808][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-02.16.32:809][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-02.16.32:822][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-02.16.32:842][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.10.20-02.16.32:874][934]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.10.20-02.16.34:633][112]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.20-02.16.34:640][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.20-02.16.34:640][112]PIE: New page: PIE session: NewMap (20 окт. 2021 г., 08:16:34)
+[2021.10.20-02.16.34:640][112]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.20-02.16.34:644][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004332s)
+[2021.10.20-02.16.34:645][112]LogAIModule: Creating AISystem for world NewMap
+[2021.10.20-02.16.34:645][112]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2021.10.20-02.16.34:645][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.005211s)
+[2021.10.20-02.16.34:665][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.10.20-02.16.34:665][112]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.20-02.16.34:665][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.20-02.16.34:665][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.20-02.16.34:665][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.20-02.16.34:665][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.20-02.16.34:665][112]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.20-02.16.34:665][112]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.20-02.16.34:665][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.20-02.16.34:665][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.20-02.16.34:666][112]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.20-02.16.34:666][112]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.20-02.16.34:669][112]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-02.16.34:670][112]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-02.16.34:684][112]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.20-02.16.34:685][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.20-02.16.34:685][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.20-02.16.34:685][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.20-02.16.34:685][112]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.20-02.16.34:685][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.20-02.16.34:685][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.20-02.16.34:696][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.20-02.16.34:696][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.20-02.16.34:696][112]LogInit: FAudioDevice initialized.
+[2021.10.20-02.16.34:696][112]LogAudio: Display: Audio Device (ID: 3) registered with world 'NewMap'.
+[2021.10.20-02.16.34:712][112]LogLoad: Game class is 'MainGM_C'
+[2021.10.20-02.16.34:714][112]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.20-05.16.34
+[2021.10.20-02.16.34:714][112]LogWorld: Bringing up level for play took: 0.000707
+[2021.10.20-02.16.34:714][112]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.10.20-02.16.34:716][112]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.16.34:716][112]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.16.34:716][112]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.16.34:716][112]PIE: Server logged in
+[2021.10.20-02.16.34:716][112]PIE: Play in editor total start time 0,079 seconds.
+[2021.10.20-02.16.37:086][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-02.16.37:086][348]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.20-02.16.37:086][348]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-02.16.37:086][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.16.37:093][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.20-02.16.37:101][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.16.37:114][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-02.16.37:114][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-02.16.37:115][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-02.16.37:131][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.10.20-02.16.37:168][349]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.10.20-02.18.28:912][625]BlueprintLog: New page: Compile BaseLamp
+[2021.10.20-02.18.28:947][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.10.20-02.18.29:931][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-02.18.29:940][709]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLampF20AD1D546BD05C176EE1F9836D22E8E.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-02.18.29:952][709]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-02.18.29:952][709]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-02.18.31:818][894]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.20-02.18.31:824][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.20-02.18.31:824][894]PIE: New page: PIE session: NewMap (20 окт. 2021 г., 08:18:31)
+[2021.10.20-02.18.31:824][894]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.20-02.18.31:828][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004220s)
+[2021.10.20-02.18.31:829][894]LogAIModule: Creating AISystem for world NewMap
+[2021.10.20-02.18.31:829][894]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2021.10.20-02.18.31:829][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.005071s)
+[2021.10.20-02.18.31:847][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.10.20-02.18.31:848][894]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.20-02.18.31:848][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.20-02.18.31:848][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.20-02.18.31:848][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.20-02.18.31:848][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.20-02.18.31:848][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.20-02.18.31:848][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.20-02.18.31:848][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.20-02.18.31:848][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.20-02.18.31:848][894]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.20-02.18.31:849][894]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.20-02.18.31:852][894]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.20-02.18.31:852][894]LogAudioMixer: Display: 1: FrontRight
+[2021.10.20-02.18.31:867][894]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.20-02.18.31:867][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.20-02.18.31:867][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.20-02.18.31:867][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.20-02.18.31:868][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.20-02.18.31:868][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.20-02.18.31:868][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.20-02.18.31:878][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.20-02.18.31:878][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.20-02.18.31:878][894]LogInit: FAudioDevice initialized.
+[2021.10.20-02.18.31:878][894]LogAudio: Display: Audio Device (ID: 4) registered with world 'NewMap'.
+[2021.10.20-02.18.31:890][894]LogLoad: Game class is 'MainGM_C'
+[2021.10.20-02.18.31:892][894]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.20-05.18.31
+[2021.10.20-02.18.31:892][894]LogWorld: Bringing up level for play took: 0.000668
+[2021.10.20-02.18.31:892][894]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.10.20-02.18.31:894][894]PIE: Server logged in
+[2021.10.20-02.18.31:894][894]PIE: Play in editor total start time 0,072 seconds.
+[2021.10.20-02.18.31:895][894]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.31:895][894]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.31:895][894]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.31:930][895]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.31:930][895]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.31:930][895]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.31:938][896]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.31:938][896]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.31:938][896]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.31:946][897]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.31:946][897]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.31:946][897]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.31:955][898]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.31:955][898]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.31:955][898]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.31:978][899]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.31:978][899]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.31:978][899]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:004][900]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:004][900]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:004][900]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:031][901]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:031][901]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:031][901]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:057][902]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:057][902]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:058][902]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:066][903]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:066][903]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:066][903]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:074][904]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:074][904]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:074][904]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:082][905]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:082][905]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:082][905]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:091][906]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:091][906]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:091][906]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:099][907]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:099][907]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:099][907]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:108][908]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:108][908]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:108][908]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:116][909]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:116][909]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:116][909]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:124][910]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:124][910]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:124][910]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:132][911]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:132][911]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:133][911]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:141][912]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:141][912]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:141][912]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:149][913]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:149][913]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:149][913]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:157][914]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:157][914]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:158][914]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:166][915]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:166][915]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:166][915]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:174][916]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:174][916]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:174][916]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:182][917]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:182][917]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:183][917]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:191][918]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:191][918]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:191][918]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:199][919]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:199][919]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:199][919]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:207][920]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:208][920]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:208][920]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:216][921]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:216][921]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:216][921]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:224][922]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:224][922]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:224][922]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:232][923]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:233][923]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:233][923]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:241][924]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:241][924]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:241][924]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:249][925]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:249][925]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:249][925]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:257][926]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:257][926]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:258][926]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:266][927]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:266][927]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:266][927]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:274][928]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:274][928]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:275][928]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:282][929]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:282][929]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:283][929]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:291][930]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:291][930]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:291][930]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:299][931]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:299][931]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:300][931]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:308][932]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:308][932]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:308][932]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:316][933]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:316][933]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:316][933]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:324][934]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:325][934]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:325][934]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:335][935]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:335][935]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:335][935]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:357][936]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:357][936]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:357][936]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:367][937]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:367][937]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:367][937]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:381][938]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:382][938]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:382][938]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:390][939]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:390][939]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:390][939]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:398][940]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:398][940]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:398][940]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:406][941]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:406][941]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:406][941]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:414][942]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:414][942]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:414][942]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:423][943]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:423][943]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:423][943]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:431][944]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:431][944]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:431][944]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:439][945]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:439][945]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:439][945]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:447][946]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:447][946]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:447][946]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:455][947]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:455][947]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:455][947]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:463][948]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:463][948]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:463][948]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:472][949]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:472][949]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:472][949]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:481][950]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:481][950]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:481][950]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:489][951]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:489][951]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:489][951]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:497][952]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:497][952]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:497][952]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:506][953]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:506][953]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:506][953]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:514][954]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:514][954]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:514][954]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:522][955]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:522][955]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:522][955]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:531][956]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:531][956]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:531][956]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:539][957]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:539][957]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:539][957]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:547][958]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:547][958]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:547][958]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:556][959]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:556][959]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:556][959]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:564][960]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:564][960]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:564][960]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:572][961]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:572][961]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:572][961]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:581][962]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:581][962]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:581][962]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:589][963]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:589][963]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:589][963]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:597][964]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:598][964]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:598][964]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:606][965]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:606][965]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:606][965]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:614][966]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:614][966]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:614][966]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:622][967]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:622][967]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:622][967]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:631][968]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:631][968]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:631][968]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:639][969]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:639][969]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:639][969]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:647][970]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:647][970]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:647][970]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:656][971]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:656][971]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:656][971]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:664][972]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:664][972]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:664][972]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:673][973]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:673][973]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:673][973]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:681][974]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:681][974]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:681][974]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:689][975]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:689][975]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:689][975]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:698][976]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:698][976]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:698][976]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:706][977]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:706][977]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:706][977]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:714][978]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:714][978]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:714][978]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:722][979]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:722][979]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:722][979]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:731][980]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:731][980]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:731][980]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:739][981]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:739][981]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:739][981]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.32:747][982]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.32:747][982]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.32:747][982]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:031][983]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:031][983]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:031][983]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:038][984]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:038][984]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:038][984]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:046][985]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:046][985]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:046][985]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:054][986]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:054][986]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:054][986]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:063][987]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:063][987]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:063][987]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:072][988]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:072][988]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:072][988]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:080][989]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:080][989]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:080][989]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:088][990]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:088][990]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:089][990]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:100][991]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:100][991]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:100][991]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:115][992]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:116][992]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:116][992]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:141][993]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:141][993]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:141][993]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:168][994]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:168][994]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:168][994]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:182][995]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:182][995]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:182][995]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:191][996]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:191][996]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:191][996]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:199][997]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:199][997]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:199][997]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:207][998]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:207][998]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:207][998]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:216][999]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:216][999]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:216][999]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:225][  0]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:225][  0]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:225][  0]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:233][  1]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:233][  1]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:233][  1]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:241][  2]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:241][  2]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:241][  2]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:249][  3]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:249][  3]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:249][  3]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:259][  4]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:259][  4]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:259][  4]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:270][  5]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:270][  5]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:270][  5]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:281][  6]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:281][  6]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:281][  6]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:290][  7]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:290][  7]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:291][  7]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:299][  8]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:299][  8]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:299][  8]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:308][  9]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:308][  9]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:308][  9]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:318][ 10]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:318][ 10]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:318][ 10]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:326][ 11]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:326][ 11]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:326][ 11]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:333][ 12]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:333][ 12]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:333][ 12]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:342][ 13]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:342][ 13]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:342][ 13]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:350][ 14]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:350][ 14]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:350][ 14]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:359][ 15]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:359][ 15]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:359][ 15]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:367][ 16]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:367][ 16]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:367][ 16]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:379][ 17]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:379][ 17]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:379][ 17]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:395][ 18]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:395][ 18]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:395][ 18]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:404][ 19]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:404][ 19]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:404][ 19]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:412][ 20]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:412][ 20]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:412][ 20]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:421][ 21]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:421][ 21]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:421][ 21]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:429][ 22]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:429][ 22]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:429][ 22]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:437][ 23]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:437][ 23]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:437][ 23]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:445][ 24]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:445][ 24]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:445][ 24]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:453][ 25]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:453][ 25]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:453][ 25]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:462][ 26]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:462][ 26]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:462][ 26]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:470][ 27]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:470][ 27]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:470][ 27]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:478][ 28]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:478][ 28]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:478][ 28]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:487][ 29]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:487][ 29]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:487][ 29]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:495][ 30]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:495][ 30]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:495][ 30]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:503][ 31]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:503][ 31]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:503][ 31]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:511][ 32]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:511][ 32]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:511][ 32]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:520][ 33]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:520][ 33]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:520][ 33]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:528][ 34]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:528][ 34]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:528][ 34]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:536][ 35]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:536][ 35]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:536][ 35]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:546][ 36]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:546][ 36]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:546][ 36]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:553][ 37]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:553][ 37]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:553][ 37]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:562][ 38]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:562][ 38]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:562][ 38]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:571][ 39]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:571][ 39]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:571][ 39]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:579][ 40]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:579][ 40]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:579][ 40]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:587][ 41]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:587][ 41]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:587][ 41]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:595][ 42]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:595][ 42]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:595][ 42]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:604][ 43]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:604][ 43]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:604][ 43]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:612][ 44]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:612][ 44]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:612][ 44]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:621][ 45]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:621][ 45]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:622][ 45]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:628][ 46]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:628][ 46]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:628][ 46]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:637][ 47]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:637][ 47]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:637][ 47]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:645][ 48]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:645][ 48]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:645][ 48]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:653][ 49]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:653][ 49]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:653][ 49]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:662][ 50]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:662][ 50]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:662][ 50]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:670][ 51]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:670][ 51]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:670][ 51]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:678][ 52]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:678][ 52]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:678][ 52]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:686][ 53]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:686][ 53]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:686][ 53]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:695][ 54]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:695][ 54]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:695][ 54]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:703][ 55]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:703][ 55]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:703][ 55]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:711][ 56]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:711][ 56]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:711][ 56]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:720][ 57]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:720][ 57]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:720][ 57]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:728][ 58]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:728][ 58]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:729][ 58]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:739][ 59]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:739][ 59]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:739][ 59]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:755][ 60]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:755][ 60]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:755][ 60]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:763][ 61]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:763][ 61]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:763][ 61]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:772][ 62]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:772][ 62]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:772][ 62]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:780][ 63]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:780][ 63]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:780][ 63]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:788][ 64]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:788][ 64]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:788][ 64]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:796][ 65]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:797][ 65]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:797][ 65]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:805][ 66]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:805][ 66]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:805][ 66]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:813][ 67]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:813][ 67]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:813][ 67]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:821][ 68]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:821][ 68]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:821][ 68]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:830][ 69]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:830][ 69]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:830][ 69]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:838][ 70]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:838][ 70]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:838][ 70]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:847][ 71]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:847][ 71]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:847][ 71]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:855][ 72]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:855][ 72]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:855][ 72]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:863][ 73]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:864][ 73]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:864][ 73]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:872][ 74]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:872][ 74]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:872][ 74]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:880][ 75]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:880][ 75]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:880][ 75]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:888][ 76]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:888][ 76]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:888][ 76]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.36:896][ 77]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.36:896][ 77]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.36:896][ 77]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.37:677][143]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.20-02.18.37:677][143]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.20-02.18.37:677][143]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.20-02.18.37:709][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-02.18.37:709][143]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.20-02.18.37:709][143]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-02.18.37:709][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.18.37:716][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.20-02.18.37:724][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.18.37:738][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.20-02.18.37:739][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-02.18.37:739][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.20-02.18.37:752][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.20-02.18.37:755][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.10.20-02.18.37:786][144]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.10.20-02.19.25:237][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-02.19.25:243][411]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLamp828AB8044AE47100DCBF31B0DED554C5.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-02.19.25:256][411]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-02.19.25:256][411]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.20-02.19.32:134][ 62]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-02.19.32:140][ 62]LogSlate: Window 'BaseLamp' being destroyed
+[2021.10.20-02.19.32:142][ 62]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-02.19.32:142][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.20-02.19.33:121][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.20-02.19.33:127][162]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLamp3606D0344CB7D8150B8270A8A1B1DD66.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.20-02.19.33:138][162]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.20-02.19.33:138][162]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
