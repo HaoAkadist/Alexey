@@ -2116,3 +2116,1916 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-22.44.33:187][775]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.22-22.44.33:187][775]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
 [2021.10.22-22.44.33:187][775]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.22-22.44.46:661][862]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.22-22.44.51:914][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.10.22-22.44.52:623][546]Cmd: DELETE
+[2021.10.22-22.44.52:624][546]Cmd: ACTOR DELETE
+[2021.10.22-22.44.52:626][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.22-22.44.52:646][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.22-22.44.52:648][546]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.10.22-22.44.53:100][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.10.22-22.44.53:147][602]Cmd: DELETE
+[2021.10.22-22.44.53:147][602]Cmd: ACTOR DELETE
+[2021.10.22-22.44.53:149][602]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.22-22.44.53:168][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.10.22-22.44.53:169][602]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.10.22-22.45.07:713][137]BlueprintLog: New page: Compile BaseLamp
+[2021.10.22-22.45.07:752][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.22-22.46.27:011][897]BlueprintLog: New page: Compile BaseLamp
+[2021.10.22-22.46.27:051][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.10.22-22.46.35:504][635]BlueprintLog: New page: Compile BaseLamp
+[2021.10.22-22.46.35:542][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.10.22-22.46.37:299][827]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.46.37:305][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.46.37:305][827]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:46:37)
+[2021.10.22-22.46.37:305][827]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.46.37:310][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004769s)
+[2021.10.22-22.46.37:311][827]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.46.37:311][827]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2021.10.22-22.46.37:311][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.005950s)
+[2021.10.22-22.46.37:332][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.10.22-22.46.37:332][827]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.10.22-22.46.37:332][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.46.37:332][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.46.37:332][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.46.37:332][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.46.37:332][827]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.46.37:332][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.46.37:332][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.46.37:332][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.46.37:333][827]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.46.37:333][827]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.46.37:336][827]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.46.37:336][827]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.46.37:352][827]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.46.37:352][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.46.37:352][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.46.37:352][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.46.37:352][827]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.46.37:352][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.46.37:352][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.46.37:363][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.46.37:363][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.46.37:363][827]LogInit: FAudioDevice initialized.
+[2021.10.22-22.46.37:363][827]LogAudio: Display: Audio Device (ID: 21) registered with world 'NewMap'.
+[2021.10.22-22.46.37:411][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.46.37:411][827]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.46.37:412][827]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.46.37
+[2021.10.22-22.46.37:413][827]LogWorld: Bringing up level for play took: 0.001052
+[2021.10.22-22.46.37:413][827]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.10.22-22.46.37:416][827]PIE: Server logged in
+[2021.10.22-22.46.37:416][827]PIE: Play in editor total start time 0,113 seconds.
+[2021.10.22-22.46.37:858][875]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.38:641][969]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.22-22.46.39:450][ 66]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.39:724][ 99]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.40:276][163]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.22-22.46.40:285][164]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.40:877][235]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.42:469][426]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.42:744][459]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.43:285][524]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.43:719][576]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.22-22.46.43:877][595]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.45:469][786]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.45:743][819]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.46:285][884]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.46:877][955]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.47:169][990]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.22-22.46.48:469][146]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.48:744][179]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.49:286][244]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.49:877][315]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.50:427][381]LogBlueprintUserMessages: [BaseLamp_2] Hello
+[2021.10.22-22.46.50:619][404]LogBlueprintUserMessages: [BaseLamp2_5] Hello
+[2021.10.22-22.46.51:128][465]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.51:470][506]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.51:745][539]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.52:287][604]LogBlueprintUserMessages: [BaseLamp3] Hello
+[2021.10.22-22.46.52:344][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.46.52:344][608]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.46.52:345][608]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.46.52:353][608]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.46.52:353][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.46.52:363][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.46.52:366][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.46.52:385][608]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-22.46.52:385][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.46.52:386][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.46.52:401][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.22-22.46.52:423][609]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.10.22-22.47.05:898][286]BlueprintLog: New page: Compile BaseLamp
+[2021.10.22-22.47.05:935][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.10.22-22.47.07:483][431]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.47.07:489][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.47.07:489][431]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:47:07)
+[2021.10.22-22.47.07:489][431]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.47.07:494][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004731s)
+[2021.10.22-22.47.07:495][431]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.47.07:495][431]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2021.10.22-22.47.07:495][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.005828s)
+[2021.10.22-22.47.07:516][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.22-22.47.07:516][431]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.10.22-22.47.07:516][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.47.07:516][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.47.07:516][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.47.07:516][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.47.07:516][431]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.47.07:516][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.47.07:516][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.47.07:516][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.47.07:517][431]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.47.07:517][431]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.47.07:520][431]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.47.07:520][431]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.47.07:535][431]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.47.07:536][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.47.07:536][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.47.07:536][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.47.07:536][431]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.47.07:536][431]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.47.07:536][431]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.47.07:547][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.47.07:547][431]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.47.07:547][431]LogInit: FAudioDevice initialized.
+[2021.10.22-22.47.07:547][431]LogAudio: Display: Audio Device (ID: 22) registered with world 'NewMap'.
+[2021.10.22-22.47.07:594][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.47.07:594][431]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.47.07:596][431]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.47.07
+[2021.10.22-22.47.07:596][431]LogWorld: Bringing up level for play took: 0.001007
+[2021.10.22-22.47.07:596][431]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.10.22-22.47.07:599][431]PIE: Server logged in
+[2021.10.22-22.47.07:599][431]PIE: Play in editor total start time 0,112 seconds.
+[2021.10.22-22.47.08:074][479]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.09:481][648]LogBlueprintUserMessages: [BaseLamp_2] MainCharacter
+[2021.10.22-22.47.09:665][670]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.09:940][703]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.10:473][767]LogBlueprintUserMessages: [BaseLamp2_5] Fan3
+[2021.10.22-22.47.10:482][768]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.11:073][839]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.12:665][ 30]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.12:940][ 63]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.13:482][128]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.13:915][180]LogBlueprintUserMessages: [BaseLamp2_5] Fan3
+[2021.10.22-22.47.13:932][182]LogBlueprintUserMessages: [BaseLamp_2] MainCharacter
+[2021.10.22-22.47.14:073][199]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.15:615][384]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:623][385]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:632][386]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:640][387]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:648][388]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:657][389]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:665][390]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:665][390]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.15:673][391]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:682][392]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:690][393]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:698][394]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:707][395]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:715][396]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:723][397]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:941][423]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:941][423]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.15:949][424]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:957][425]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:966][426]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:974][427]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:982][428]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:990][429]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.15:999][430]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:007][431]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:015][432]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:023][433]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:032][434]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:040][435]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:048][436]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:057][437]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:065][438]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:073][439]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:081][440]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:090][441]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:098][442]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:107][443]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:115][444]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:123][445]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:132][446]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:140][447]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:148][448]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:157][449]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:165][450]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:173][451]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:182][452]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:190][453]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:199][454]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:207][455]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:215][456]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:223][457]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:232][458]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:241][459]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:249][460]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:257][461]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:265][462]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:274][463]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:282][464]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:290][465]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:299][466]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:307][467]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:315][468]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:323][469]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:332][470]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:340][471]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:348][472]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:357][473]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:365][474]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:373][475]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:382][476]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:390][477]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:399][478]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:407][479]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:416][480]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:424][481]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:432][482]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:441][483]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:449][484]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:457][485]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:465][486]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:473][487]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:482][488]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:482][488]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.16:491][489]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:499][490]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:508][491]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:516][492]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:524][493]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:533][494]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:541][495]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:549][496]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:557][497]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:565][498]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.16:574][499]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.17:074][559]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.17:365][594]LogBlueprintUserMessages: [BaseLamp2_5] Fan3
+[2021.10.22-22.47.18:665][750]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.18:941][783]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.19:482][848]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.19:567][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.47.19:567][852]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.47.19:568][852]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.47.19:576][852]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.47.19:576][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.47.19:589][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.47.19:593][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.47.19:610][852]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-22.47.19:611][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.47.19:612][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.47.19:627][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.10.22-22.47.19:650][853]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.10.22-22.47.21:030][  5]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.47.21:035][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.47.21:035][  5]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:47:21)
+[2021.10.22-22.47.21:036][  5]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.47.21:041][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004918s)
+[2021.10.22-22.47.21:041][  5]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.47.21:042][  5]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2021.10.22-22.47.21:042][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.006210s)
+[2021.10.22-22.47.21:061][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.22-22.47.21:062][  5]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.10.22-22.47.21:062][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.47.21:062][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.47.21:062][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.47.21:062][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.47.21:062][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.47.21:062][  5]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.47.21:062][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.47.21:062][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.47.21:062][  5]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.47.21:062][  5]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.47.21:066][  5]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.47.21:066][  5]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.47.21:081][  5]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.47.21:081][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.47.21:081][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.47.21:081][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.47.21:082][  5]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.47.21:082][  5]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.47.21:082][  5]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.47.21:082][  5]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.47.21:082][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.47.21:082][  5]LogInit: FAudioDevice initialized.
+[2021.10.22-22.47.21:082][  5]LogAudio: Display: Audio Device (ID: 23) registered with world 'NewMap'.
+[2021.10.22-22.47.21:119][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.47.21:119][  5]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.47.21:121][  5]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.47.21
+[2021.10.22-22.47.21:121][  5]LogWorld: Bringing up level for play took: 0.001478
+[2021.10.22-22.47.21:122][  5]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.10.22-22.47.21:125][  5]PIE: Server logged in
+[2021.10.22-22.47.21:125][  5]PIE: Play in editor total start time 0,092 seconds.
+[2021.10.22-22.47.21:598][ 53]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.22:631][177]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.23:190][244]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.23:465][277]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.23:998][341]LogBlueprintUserMessages: [BaseLamp2_5] Fan3
+[2021.10.22-22.47.24:006][342]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.24:598][413]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.24:699][425]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:707][426]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:715][427]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:724][428]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:732][429]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:740][430]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:749][431]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:757][432]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:765][433]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:774][434]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:782][435]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:790][436]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:799][437]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:807][438]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:815][439]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:824][440]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:832][441]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:841][442]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:849][443]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:857][444]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:866][445]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:874][446]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:882][447]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:891][448]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:899][449]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:908][450]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:916][451]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:924][452]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:932][453]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:941][454]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:949][455]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:957][456]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:966][457]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:974][458]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:982][459]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:989][460]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.24:998][461]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:007][462]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:014][463]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:023][464]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:032][465]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:040][466]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:049][467]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:057][468]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:065][469]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:074][470]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:082][471]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:090][472]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:099][473]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:107][474]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:115][475]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:124][476]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:132][477]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:140][478]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:149][479]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:157][480]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:165][481]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:174][482]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:182][483]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:190][484]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:199][485]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:207][486]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:216][487]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:224][488]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:232][489]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:241][490]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:249][491]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:257][492]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:265][493]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:273][494]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:282][495]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:291][496]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:299][497]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:307][498]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:315][499]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:324][500]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:332][501]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:340][502]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:349][503]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:357][504]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:365][505]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:374][506]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:382][507]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:391][508]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:399][509]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:407][510]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:415][511]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:424][512]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:432][513]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.25:440][514]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.26:190][604]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.26:465][637]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.27:007][702]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.27:440][754]LogBlueprintUserMessages: [BaseLamp2_5] Fan3
+[2021.10.22-22.47.27:465][757]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.27:598][773]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.29:040][946]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.29:190][964]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.29:465][997]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.30:007][ 62]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.30:598][133]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.30:890][168]LogBlueprintUserMessages: [BaseLamp2_5] Fan3
+[2021.10.22-22.47.31:532][245]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:540][246]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:548][247]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:557][248]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:565][249]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:574][250]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:582][251]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:590][252]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:598][253]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:607][254]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:615][255]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.31:623][256]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.47.32:190][324]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.32:465][357]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.33:007][422]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.33:598][493]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.47.33:949][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.47.33:949][532]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.47.33:949][532]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.47.33:957][532]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.47.33:957][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.47.33:968][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.47.33:971][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.47.33:990][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.47.33:991][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.47.34:006][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.22-22.47.34:029][533]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.10.22-22.48.09:416][920]BlueprintLog: New page: Compile BaseLamp
+[2021.10.22-22.48.09:454][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.10.22-22.48.10:110][980]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.48.10:116][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.48.10:116][980]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:48:10)
+[2021.10.22-22.48.10:116][980]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.48.10:121][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004814s)
+[2021.10.22-22.48.10:122][980]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.48.10:122][980]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2021.10.22-22.48.10:122][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.005964s)
+[2021.10.22-22.48.10:143][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.10.22-22.48.10:143][980]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.10.22-22.48.10:143][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.48.10:143][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.48.10:143][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.48.10:143][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.48.10:143][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.48.10:143][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.48.10:143][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.48.10:143][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.48.10:144][980]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.48.10:144][980]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.48.10:147][980]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.48.10:148][980]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.48.10:163][980]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.48.10:163][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.48.10:163][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.48.10:163][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.48.10:163][980]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.48.10:163][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.48.10:163][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.48.10:174][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.48.10:174][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.48.10:174][980]LogInit: FAudioDevice initialized.
+[2021.10.22-22.48.10:175][980]LogAudio: Display: Audio Device (ID: 24) registered with world 'NewMap'.
+[2021.10.22-22.48.10:216][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.48.10:216][980]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.48.10:218][980]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.48.10
+[2021.10.22-22.48.10:218][980]LogWorld: Bringing up level for play took: 0.001408
+[2021.10.22-22.48.10:218][980]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.10.22-22.48.10:222][980]PIE: Server logged in
+[2021.10.22-22.48.10:222][980]PIE: Play in editor total start time 0,108 seconds.
+[2021.10.22-22.48.10:709][ 28]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.48.11:326][102]LogBlueprintUserMessages: [BaseLamp_2] MainCharacter
+[2021.10.22-22.48.12:301][219]LogBlueprintUserMessages: [BaseLamp3] Fan2
+[2021.10.22-22.48.12:413][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.48.12:413][229]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.48.12:414][229]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.48.12:420][229]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.48.12:421][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.48.12:434][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.48.12:438][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.48.12:456][229]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-22.48.12:456][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.48.12:457][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.48.12:472][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.22-22.48.12:509][230]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.10.22-22.49.13:714][535]BlueprintLog: New page: Compile Fan
+[2021.10.22-22.49.13:757][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.22-22.49.14:685][619]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.49.14:691][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.49.14:691][619]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:49:14)
+[2021.10.22-22.49.14:691][619]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.49.14:696][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004776s)
+[2021.10.22-22.49.14:697][619]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.49.14:697][619]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2021.10.22-22.49.14:697][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.006400s)
+[2021.10.22-22.49.14:718][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.10.22-22.49.14:718][619]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.10.22-22.49.14:718][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.49.14:718][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.49.14:718][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.49.14:718][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.49.14:718][619]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.49.14:718][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.49.14:718][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.49.14:718][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.49.14:719][619]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.49.14:719][619]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.49.14:722][619]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.49.14:722][619]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.49.14:737][619]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.49.14:738][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.49.14:738][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.49.14:738][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.49.14:738][619]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.49.14:738][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.49.14:738][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.49.14:749][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.49.14:749][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.49.14:749][619]LogInit: FAudioDevice initialized.
+[2021.10.22-22.49.14:749][619]LogAudio: Display: Audio Device (ID: 25) registered with world 'NewMap'.
+[2021.10.22-22.49.14:786][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.49.14:786][619]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.49.14:787][619]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.49.14
+[2021.10.22-22.49.14:787][619]LogWorld: Bringing up level for play took: 0.000863
+[2021.10.22-22.49.14:788][619]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.10.22-22.49.14:791][619]PIE: Server logged in
+[2021.10.22-22.49.14:792][619]PIE: Play in editor total start time 0,103 seconds.
+[2021.10.22-22.49.16:847][857]LogBlueprintUserMessages: [BaseLamp2_5] MainCharacter
+[2021.10.22-22.49.18:961][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.49.18:961][107]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.49.18:962][107]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.49.18:970][107]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.49.18:970][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.49.18:978][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.49.18:981][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.49.19:000][107]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-22.49.19:000][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.49.19:001][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.49.19:016][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.22-22.49.19:035][109]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.10.22-22.49.56:925][556]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.49.56:925][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.50.09:325][987]BlueprintLog: New page: Compile BaseLamp
+[2021.10.22-22.50.09:362][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.10.22-22.50.41:534][271]BlueprintLog: New page: Compile BaseLamp
+[2021.10.22-22.50.41:571][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.10.22-22.50.42:119][320]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.50.42:125][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.50.42:125][320]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:50:42)
+[2021.10.22-22.50.42:125][320]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.50.42:130][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004750s)
+[2021.10.22-22.50.42:130][320]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.50.42:131][320]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2021.10.22-22.50.42:131][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.005662s)
+[2021.10.22-22.50.42:155][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.10.22-22.50.42:155][320]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.10.22-22.50.42:155][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.50.42:155][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.50.42:155][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.50.42:155][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.50.42:155][320]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.50.42:155][320]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.50.42:155][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.50.42:155][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.50.42:156][320]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.50.42:156][320]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.50.42:159][320]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.50.42:159][320]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.50.42:174][320]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.50.42:175][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.50.42:175][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.50.42:175][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.50.42:175][320]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.50.42:175][320]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.50.42:175][320]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.50.42:186][320]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.50.42:186][320]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.50.42:186][320]LogInit: FAudioDevice initialized.
+[2021.10.22-22.50.42:186][320]LogAudio: Display: Audio Device (ID: 26) registered with world 'NewMap'.
+[2021.10.22-22.50.42:231][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.50.42:231][320]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.50.42:233][320]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.50.42
+[2021.10.22-22.50.42:233][320]LogWorld: Bringing up level for play took: 0.000836
+[2021.10.22-22.50.42:233][320]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.10.22-22.50.42:236][320]PIE: Server logged in
+[2021.10.22-22.50.42:236][320]PIE: Play in editor total start time 0,113 seconds.
+[2021.10.22-22.50.49:522][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.50.49:522][177]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.50.49:523][177]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.50.49:531][177]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.50.49:532][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.50.49:543][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.50.49:547][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.50.49:564][177]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-22.50.49:564][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.50.49:565][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.50.49:579][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.10.22-22.50.49:599][178]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.10.22-22.51.22:610][ 29]BlueprintLog: New page: Compile BaseLamp
+[2021.10.22-22.51.22:646][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.22-22.51.30:084][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/BaseLamp" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset" SILENT=true
+[2021.10.22-22.51.30:107][807]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/BaseLamp86F93E1A43DB785D55DE46B7BAD26B04.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/BaseLamp.uasset'
+[2021.10.22-22.51.30:120][807]AssetCheck: New page: Asset Save: BaseLamp
+[2021.10.22-22.51.30:120][807]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/BaseLamp.BaseLamp
+[2021.10.22-22.51.48:376][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-22.51.48:396][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.10.22-22.51.48:486][126]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMapB5AAFF6945545A570491CE94C6808A18.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.22-22.51.48:492][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.22-22.51.48:512][126]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltDataAF9D657F438148CB694206A2F7AB115E.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.22-22.51.48:523][126]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-22.51.48:523][126]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.22-22.51.48:523][126]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.22-22.54.17:771][ 36]BlueprintLog: New page: Compile Fan
+[2021.10.22-22.54.17:829][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.10.22-22.56.15:170][426]BlueprintLog: New page: Compile Fan
+[2021.10.22-22.56.15:209][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.10.22-22.56.15:746][476]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.56.15:753][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.56.15:753][476]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:56:15)
+[2021.10.22-22.56.15:753][476]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.56.15:759][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006044s)
+[2021.10.22-22.56.15:760][476]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.56.15:760][476]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2021.10.22-22.56.15:760][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.007605s)
+[2021.10.22-22.56.15:780][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.10.22-22.56.15:780][476]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.10.22-22.56.15:781][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.56.15:781][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.56.15:781][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.56.15:781][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.56.15:781][476]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.56.15:781][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.56.15:781][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.56.15:781][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.56.15:781][476]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.56.15:781][476]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.56.15:785][476]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.56.15:785][476]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.56.15:801][476]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.56.15:801][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.56.15:801][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.56.15:801][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.56.15:801][476]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.56.15:801][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.56.15:801][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.56.15:813][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.56.15:813][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.56.15:813][476]LogInit: FAudioDevice initialized.
+[2021.10.22-22.56.15:813][476]LogAudio: Display: Audio Device (ID: 27) registered with world 'NewMap'.
+[2021.10.22-22.56.15:858][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.56.15:858][476]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.56.15:860][476]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.56.15
+[2021.10.22-22.56.15:860][476]LogWorld: Bringing up level for play took: 0.000938
+[2021.10.22-22.56.15:860][476]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.10.22-22.56.15:863][476]PIE: Server logged in
+[2021.10.22-22.56.15:864][476]PIE: Play in editor total start time 0,113 seconds.
+[2021.10.22-22.56.17:671][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.56.17:671][684]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.56.17:672][684]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.56.17:680][684]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.56.17:680][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.56.17:693][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.56.17:697][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.56.17:713][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-22.56.17:713][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.56.17:714][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.56.17:729][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.22-22.56.17:742][685]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.10.22-22.56.21:156][  3]BlueprintLog: New page: Compile Fan
+[2021.10.22-22.56.21:193][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.10.22-22.56.21:858][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.56.21:864][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.56.21:864][ 67]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:56:21)
+[2021.10.22-22.56.21:864][ 67]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.56.21:869][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004775s)
+[2021.10.22-22.56.21:870][ 67]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.56.21:870][ 67]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2021.10.22-22.56.21:870][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.005755s)
+[2021.10.22-22.56.21:889][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.10.22-22.56.21:890][ 67]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.10.22-22.56.21:890][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.56.21:890][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.56.21:890][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.56.21:890][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.56.21:890][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.56.21:890][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.56.21:890][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.56.21:890][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.56.21:890][ 67]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.56.21:890][ 67]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.56.21:894][ 67]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.56.21:894][ 67]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.56.21:909][ 67]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.56.21:909][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.56.21:909][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.56.21:909][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.56.21:909][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.56.21:909][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.56.21:909][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.56.21:920][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.56.21:920][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.56.21:920][ 67]LogInit: FAudioDevice initialized.
+[2021.10.22-22.56.21:920][ 67]LogAudio: Display: Audio Device (ID: 28) registered with world 'NewMap'.
+[2021.10.22-22.56.21:966][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.56.21:966][ 67]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.56.21:967][ 67]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.56.21
+[2021.10.22-22.56.21:968][ 67]LogWorld: Bringing up level for play took: 0.000821
+[2021.10.22-22.56.21:968][ 67]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.10.22-22.56.21:971][ 67]PIE: Server logged in
+[2021.10.22-22.56.21:971][ 67]PIE: Play in editor total start time 0,109 seconds.
+[2021.10.22-22.56.23:252][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.56.23:252][208]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.56.23:252][208]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.56.23:260][208]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.56.23:260][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.56.23:267][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.56.23:271][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.56.23:287][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-22.56.23:288][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.56.23:289][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.56.23:304][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.10.22-22.56.23:325][210]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.10.22-22.57.23:194][893]BlueprintLog: New page: Compile Fan
+[2021.10.22-22.57.23:231][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.10.22-22.57.24:222][985]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.57.24:229][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.57.24:229][985]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:57:24)
+[2021.10.22-22.57.24:229][985]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.57.24:234][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005017s)
+[2021.10.22-22.57.24:235][985]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.57.24:235][985]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2021.10.22-22.57.24:235][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.006423s)
+[2021.10.22-22.57.24:256][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.10.22-22.57.24:256][985]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.10.22-22.57.24:256][985]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.57.24:256][985]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.57.24:256][985]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.57.24:256][985]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.57.24:256][985]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.57.24:256][985]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.57.24:256][985]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.57.24:256][985]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.57.24:257][985]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.57.24:257][985]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.57.24:261][985]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.57.24:261][985]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.57.24:279][985]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.57.24:279][985]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.57.24:279][985]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.57.24:279][985]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.57.24:280][985]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.57.24:280][985]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.57.24:280][985]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.57.24:291][985]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.57.24:291][985]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.57.24:291][985]LogInit: FAudioDevice initialized.
+[2021.10.22-22.57.24:291][985]LogAudio: Display: Audio Device (ID: 29) registered with world 'NewMap'.
+[2021.10.22-22.57.24:336][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.57.24:337][985]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.57.24:338][985]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.57.24
+[2021.10.22-22.57.24:338][985]LogWorld: Bringing up level for play took: 0.000895
+[2021.10.22-22.57.24:338][985]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.10.22-22.57.24:341][985]PIE: Server logged in
+[2021.10.22-22.57.24:342][985]PIE: Play in editor total start time 0,115 seconds.
+[2021.10.22-22.57.29:219][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.57.29:219][558]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.57.29:220][558]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.57.29:227][558]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.57.29:228][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.57.29:237][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.57.29:240][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.57.29:258][558]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-22.57.29:258][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.57.29:259][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.57.29:274][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.10.22-22.57.29:289][559]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.10.22-22.57.37:930][591]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.57.37:936][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.57.37:936][591]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:57:37)
+[2021.10.22-22.57.37:936][591]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.57.37:941][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004972s)
+[2021.10.22-22.57.37:942][591]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.57.37:942][591]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2021.10.22-22.57.37:942][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.006163s)
+[2021.10.22-22.57.37:961][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.22-22.57.37:962][591]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.10.22-22.57.37:962][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.57.37:962][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.57.37:962][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.57.37:962][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.57.37:962][591]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.57.37:962][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.57.37:962][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.57.37:962][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.57.37:962][591]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.57.37:962][591]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.57.37:966][591]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.57.37:966][591]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.57.37:981][591]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.57.37:981][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.57.37:981][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.57.37:981][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.57.37:982][591]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.57.37:982][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.57.37:982][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.57.37:993][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.57.37:993][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.57.37:993][591]LogInit: FAudioDevice initialized.
+[2021.10.22-22.57.37:993][591]LogAudio: Display: Audio Device (ID: 30) registered with world 'NewMap'.
+[2021.10.22-22.57.38:034][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.57.38:035][591]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.57.38:036][591]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.57.38
+[2021.10.22-22.57.38:036][591]LogWorld: Bringing up level for play took: 0.000820
+[2021.10.22-22.57.38:036][591]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.10.22-22.57.38:039][591]PIE: Server logged in
+[2021.10.22-22.57.38:040][591]PIE: Play in editor total start time 0,106 seconds.
+[2021.10.22-22.57.40:020][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.57.40:020][821]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.57.40:021][821]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.57.40:029][821]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.57.40:029][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.57.40:037][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.57.40:040][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.57.40:057][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.57.40:058][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.57.40:073][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.22-22.57.40:095][823]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.10.22-22.57.51:020][998]BlueprintLog: New page: Compile Fan
+[2021.10.22-22.57.51:080][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.10.22-22.57.51:565][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/Fan" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset" SILENT=true
+[2021.10.22-22.57.51:603][ 38]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/Fan8A031C3743AE905E4CFD01B893295790.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset'
+[2021.10.22-22.57.51:615][ 38]AssetCheck: New page: Asset Save: Fan
+[2021.10.22-22.57.51:615][ 38]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/Fan.Fan
+[2021.10.22-22.57.52:413][118]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.57.52:419][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.57.52:420][118]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:57:52)
+[2021.10.22-22.57.52:420][118]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.57.52:424][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004763s)
+[2021.10.22-22.57.52:425][118]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.57.52:425][118]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2021.10.22-22.57.52:425][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.005739s)
+[2021.10.22-22.57.52:444][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.10.22-22.57.52:445][118]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.10.22-22.57.52:445][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.57.52:445][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.57.52:445][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.57.52:445][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.57.52:445][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.57.52:445][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.57.52:445][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.57.52:445][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.57.52:446][118]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.57.52:446][118]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.57.52:449][118]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.57.52:449][118]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.57.52:464][118]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.57.52:464][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.57.52:465][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.57.52:465][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.57.52:465][118]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.57.52:465][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.57.52:465][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.57.52:476][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.57.52:476][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.57.52:476][118]LogInit: FAudioDevice initialized.
+[2021.10.22-22.57.52:476][118]LogAudio: Display: Audio Device (ID: 31) registered with world 'NewMap'.
+[2021.10.22-22.57.52:520][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.57.52:520][118]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.57.52:521][118]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.57.52
+[2021.10.22-22.57.52:521][118]LogWorld: Bringing up level for play took: 0.000868
+[2021.10.22-22.57.52:522][118]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.10.22-22.57.52:525][118]PIE: Server logged in
+[2021.10.22-22.57.52:525][118]PIE: Play in editor total start time 0,108 seconds.
+[2021.10.22-22.57.56:363][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.57.56:363][564]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.57.56:363][564]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.57.56:370][564]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.57.56:370][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.57.56:377][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.57.56:381][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.57.56:397][564]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-22.57.56:398][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.57.56:398][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.57.56:416][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.22-22.57.56:429][565]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.10.22-22.58.02:722][294]Cmd: SELECT NONE
+[2021.10.22-22.58.50:075][222]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.58.50:081][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.58.50:081][222]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:58:50)
+[2021.10.22-22.58.50:081][222]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.58.50:086][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005304s)
+[2021.10.22-22.58.50:087][222]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.58.50:087][222]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2021.10.22-22.58.50:088][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.006550s)
+[2021.10.22-22.58.50:107][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.22-22.58.50:109][222]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.10.22-22.58.50:109][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.58.50:109][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.58.50:109][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.58.50:109][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.58.50:109][222]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.58.50:109][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.58.50:109][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.58.50:109][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.58.50:110][222]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.58.50:110][222]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.58.50:113][222]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.58.50:113][222]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.58.50:129][222]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.58.50:129][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.58.50:129][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.58.50:129][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.58.50:130][222]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.58.50:130][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.58.50:130][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.58.50:141][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.58.50:141][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.58.50:141][222]LogInit: FAudioDevice initialized.
+[2021.10.22-22.58.50:141][222]LogAudio: Display: Audio Device (ID: 32) registered with world 'NewMap'.
+[2021.10.22-22.58.50:181][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.58.50:181][222]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.58.50:182][222]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.58.50
+[2021.10.22-22.58.50:182][222]LogWorld: Bringing up level for play took: 0.000844
+[2021.10.22-22.58.50:183][222]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.10.22-22.58.50:186][222]PIE: Server logged in
+[2021.10.22-22.58.50:186][222]PIE: Play in editor total start time 0,107 seconds.
+[2021.10.22-22.58.58:720][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.58.58:720][233]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.58.58:720][233]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.58.58:729][233]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.58.58:729][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.58.58:737][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.58.58:741][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.58.58:758][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.58.58:759][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.58.58:774][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.22-22.58.58:789][234]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.10.22-22.59.14:687][998]BlueprintLog: New page: Compile Fan
+[2021.10.22-22.59.14:727][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.10.22-22.59.15:382][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/Fan" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset" SILENT=true
+[2021.10.22-22.59.15:419][ 56]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/Fan1DF11397408F513F9E633EA67E6B38B2.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset'
+[2021.10.22-22.59.15:437][ 56]AssetCheck: New page: Asset Save: Fan
+[2021.10.22-22.59.15:437][ 56]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/Fan.Fan
+[2021.10.22-22.59.16:084][124]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-22.59.16:090][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-22.59.16:090][124]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 04:59:16)
+[2021.10.22-22.59.16:090][124]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.59.16:095][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004961s)
+[2021.10.22-22.59.16:096][124]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-22.59.16:096][124]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2021.10.22-22.59.16:096][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.006124s)
+[2021.10.22-22.59.16:117][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.10.22-22.59.16:117][124]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.10.22-22.59.16:117][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-22.59.16:117][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-22.59.16:117][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-22.59.16:117][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-22.59.16:117][124]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-22.59.16:117][124]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-22.59.16:117][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-22.59.16:118][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-22.59.16:118][124]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-22.59.16:118][124]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-22.59.16:121][124]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-22.59.16:121][124]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-22.59.16:137][124]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-22.59.16:137][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-22.59.16:137][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-22.59.16:137][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-22.59.16:137][124]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-22.59.16:137][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-22.59.16:137][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-22.59.16:148][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-22.59.16:148][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-22.59.16:148][124]LogInit: FAudioDevice initialized.
+[2021.10.22-22.59.16:148][124]LogAudio: Display: Audio Device (ID: 33) registered with world 'NewMap'.
+[2021.10.22-22.59.16:188][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.59.16:188][124]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-22.59.16:189][124]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-01.59.16
+[2021.10.22-22.59.16:190][124]LogWorld: Bringing up level for play took: 0.000990
+[2021.10.22-22.59.16:190][124]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.10.22-22.59.16:193][124]PIE: Server logged in
+[2021.10.22-22.59.16:194][124]PIE: Play in editor total start time 0,105 seconds.
+[2021.10.22-22.59.21:542][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-22.59.21:542][752]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-22.59.21:543][752]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-22.59.21:550][752]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.59.21:551][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.59.21:558][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-22.59.21:561][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.59.21:578][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-22.59.21:579][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.59.21:579][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-22.59.21:595][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.10.22-22.59.21:616][754]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.10.22-22.59.37:468][548]BlueprintLog: New page: Compile Fan
+[2021.10.22-22.59.37:507][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.22-23.01.01:374][176]BlueprintLog: New page: Compile Fan
+[2021.10.22-23.01.01:415][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.10.22-23.01.02:239][257]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.01.02:245][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.01.02:245][257]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:01:02)
+[2021.10.22-23.01.02:245][257]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.01.02:250][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004772s)
+[2021.10.22-23.01.02:250][257]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.01.02:251][257]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2021.10.22-23.01.02:251][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.005911s)
+[2021.10.22-23.01.02:270][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.10.22-23.01.02:270][257]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.10.22-23.01.02:270][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.01.02:270][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.01.02:270][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.01.02:270][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.01.02:270][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.01.02:270][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.01.02:270][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.01.02:270][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.01.02:271][257]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.01.02:271][257]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.01.02:274][257]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.01.02:274][257]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.01.02:290][257]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.01.02:290][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.01.02:290][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.01.02:290][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.01.02:290][257]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.01.02:290][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.01.02:290][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.01.02:302][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.01.02:302][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.01.02:302][257]LogInit: FAudioDevice initialized.
+[2021.10.22-23.01.02:302][257]LogAudio: Display: Audio Device (ID: 34) registered with world 'NewMap'.
+[2021.10.22-23.01.02:349][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.01.02:349][257]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.01.02:351][257]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.01.02
+[2021.10.22-23.01.02:351][257]LogWorld: Bringing up level for play took: 0.000869
+[2021.10.22-23.01.02:351][257]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.10.22-23.01.02:354][257]PIE: Server logged in
+[2021.10.22-23.01.02:355][257]PIE: Play in editor total start time 0,112 seconds.
+[2021.10.22-23.01.05:995][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.01.05:995][684]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.01.05:995][684]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-23.01.06:006][684]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.01.06:007][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.01.06:019][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.01.06:022][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.01.06:038][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-23.01.06:039][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.01.06:039][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.01.06:054][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.22-23.01.06:064][685]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.10.22-23.02.08:555][843]BlueprintLog: New page: Compile Fan
+[2021.10.22-23.02.08:594][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.10.22-23.02.09:154][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/Fan" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset" SILENT=true
+[2021.10.22-23.02.09:192][886]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/Fan5A9AA9454F616FAD9FAB21A8B8DCF41D.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset'
+[2021.10.22-23.02.09:202][886]AssetCheck: New page: Asset Save: Fan
+[2021.10.22-23.02.09:202][886]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/Fan.Fan
+[2021.10.22-23.02.09:734][944]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.02.09:740][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.02.09:740][944]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:02:09)
+[2021.10.22-23.02.09:740][944]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.02.09:746][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005157s)
+[2021.10.22-23.02.09:746][944]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.02.09:747][944]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2021.10.22-23.02.09:747][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.006299s)
+[2021.10.22-23.02.09:767][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.10.22-23.02.09:767][944]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.10.22-23.02.09:767][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.02.09:767][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.02.09:767][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.02.09:767][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.02.09:767][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.02.09:767][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.02.09:767][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.02.09:767][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.02.09:768][944]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.02.09:768][944]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.02.09:771][944]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.02.09:771][944]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.02.09:786][944]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.02.09:787][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.02.09:787][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.02.09:787][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.02.09:787][944]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.02.09:787][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.02.09:787][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.02.09:798][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.02.09:799][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.02.09:799][944]LogInit: FAudioDevice initialized.
+[2021.10.22-23.02.09:799][944]LogAudio: Display: Audio Device (ID: 35) registered with world 'NewMap'.
+[2021.10.22-23.02.09:840][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.02.09:840][944]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.02.09:841][944]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.02.09
+[2021.10.22-23.02.09:842][944]LogWorld: Bringing up level for play took: 0.000905
+[2021.10.22-23.02.09:842][944]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.10.22-23.02.09:845][944]PIE: Server logged in
+[2021.10.22-23.02.09:846][944]PIE: Play in editor total start time 0,107 seconds.
+[2021.10.22-23.02.21:423][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.02.21:423][326]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.02.21:424][326]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-23.02.21:430][326]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.02.21:430][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.02.21:437][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.02.21:441][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.02.21:458][326]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-23.02.21:458][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.02.21:459][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.02.21:474][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.10.22-23.02.21:502][329]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.10.22-23.02.46:239][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.22-23.02.46:332][439]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_Auto243EC31D84988E0E3FE7C8EB26DDD03A9.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Saved/Autosaves/Game/Alexey/Levels/NewMap_Auto2.umap'
+[2021.10.22-23.02.46:333][439]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Alexey/Levels/NewMap' took 0.111
+[2021.10.22-23.02.46:333][439]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.111
+[2021.10.22-23.03.16:554][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.10.22-23.03.23:389][569]Cmd: TRANSACTION UNDO
+[2021.10.22-23.03.23:389][569]LogEditorTransaction: Undo Move Actors
+[2021.10.22-23.03.28:782][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-23.04.04:187][921]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.22-23.04.36:750][525]LogActorFactory: Actor Factory created Plane
+[2021.10.22-23.04.37:045][546]LogActorFactory: Actor Factory created Plane
+[2021.10.22-23.05.28:355][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.22-23.05.44:850][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-23.05.44:872][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.10.22-23.05.45:010][216]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap34737C0E402C1DB789DB7293AAB1F57C.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.22-23.05.45:017][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.22-23.05.45:036][216]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltData7664B3A74C49EECE071A1187D2BEB8A3.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.22-23.05.45:054][216]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-23.05.45:054][216]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.22-23.05.45:054][216]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.22-23.05.45:490][266]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.05.45:496][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.05.45:496][266]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:05:45)
+[2021.10.22-23.05.45:497][266]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.05.45:504][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007167s)
+[2021.10.22-23.05.45:505][266]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.05.45:505][266]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2021.10.22-23.05.45:505][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.008310s)
+[2021.10.22-23.05.45:524][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.10.22-23.05.45:525][266]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.10.22-23.05.45:525][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.05.45:525][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.05.45:525][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.05.45:525][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.05.45:525][266]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.05.45:525][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.05.45:525][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.05.45:525][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.05.45:525][266]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.05.45:525][266]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.05.45:529][266]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.05.45:529][266]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.05.45:544][266]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.05.45:544][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.05.45:544][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.05.45:544][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.05.45:545][266]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.05.45:545][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.05.45:545][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.05.45:556][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.05.45:556][266]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.05.45:556][266]LogInit: FAudioDevice initialized.
+[2021.10.22-23.05.45:556][266]LogAudio: Display: Audio Device (ID: 36) registered with world 'NewMap'.
+[2021.10.22-23.05.45:561][266]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.05.45:562][266]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.05.45
+[2021.10.22-23.05.45:562][266]LogWorld: Bringing up level for play took: 0.000873
+[2021.10.22-23.05.45:562][266]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.10.22-23.05.45:565][266]PIE: Server logged in
+[2021.10.22-23.05.45:565][266]PIE: Play in editor total start time 0,071 seconds.
+[2021.10.22-23.05.56:219][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.05.56:219][537]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.05.56:220][537]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.05.56:220][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.05.56:226][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.05.56:240][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.05.56:255][537]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-23.05.56:255][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.05.56:256][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.05.56:269][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.05.56:272][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.22-23.05.56:301][538]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.10.22-23.06.10:095][112]LogActorFactory: Actor Factory created Cube
+[2021.10.22-23.06.12:303][352]LogActorFactory: Actor Factory created Cube
+[2021.10.22-23.06.35:438][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.22-23.06.45:418][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-23.06.45:438][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.22-23.06.45:564][954]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMapD729ACCC48E41EC01067E4A00754DF42.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.22-23.06.45:570][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.22-23.06.45:588][954]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltData13C015F545FB2EE1D0BC48B75A6D141F.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.22-23.06.45:599][954]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-23.06.45:599][954]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.22-23.06.45:599][954]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.22-23.06.46:534][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.06.46:540][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.06.46:540][ 51]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:06:46)
+[2021.10.22-23.06.46:573][ 51]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.06.46:580][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007273s)
+[2021.10.22-23.06.46:582][ 51]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.06.46:582][ 51]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2021.10.22-23.06.46:582][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.008635s)
+[2021.10.22-23.06.46:600][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.22-23.06.46:601][ 51]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.10.22-23.06.46:601][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.06.46:601][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.06.46:601][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.06.46:601][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.06.46:601][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.06.46:601][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.06.46:601][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.06.46:601][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.06.46:601][ 51]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.06.46:601][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.06.46:605][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.06.46:605][ 51]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.06.46:620][ 51]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.06.46:620][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.06.46:620][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.06.46:620][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.06.46:621][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.06.46:621][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.06.46:621][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.06.46:632][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.06.46:632][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.06.46:632][ 51]LogInit: FAudioDevice initialized.
+[2021.10.22-23.06.46:632][ 51]LogAudio: Display: Audio Device (ID: 37) registered with world 'NewMap'.
+[2021.10.22-23.06.46:641][ 51]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.06.46:642][ 51]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.06.46
+[2021.10.22-23.06.46:642][ 51]LogWorld: Bringing up level for play took: 0.000881
+[2021.10.22-23.06.46:642][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.10.22-23.06.46:644][ 51]PIE: Server logged in
+[2021.10.22-23.06.46:645][ 51]PIE: Play in editor total start time 0,107 seconds.
+[2021.10.22-23.06.56:146][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.06.56:146][185]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.06.56:147][185]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.06.56:147][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.06.56:159][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.06.56:173][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.06.56:188][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.06.56:189][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.06.56:190][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.06.56:204][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.22-23.06.56:232][186]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.10.22-23.06.58:229][398]LogActorFactory: Actor Factory created Sphere
+[2021.10.22-23.06.59:224][507]LogActorFactory: Actor Factory created Sphere
+[2021.10.22-23.07.10:560][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-23.07.10:579][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.10.22-23.07.10:693][697]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMapEC1D3BF94E77F97CDDE4C0ACD7C7DF51.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.22-23.07.10:699][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.22-23.07.10:718][697]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltData7EDEBF684AE31162F581EEA2AA90AC9A.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.22-23.07.10:734][697]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-23.07.10:734][697]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.22-23.07.10:734][697]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.22-23.07.11:439][768]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.07.11:445][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.07.11:445][768]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:07:11)
+[2021.10.22-23.07.11:476][768]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.07.11:483][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007258s)
+[2021.10.22-23.07.11:484][768]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.07.11:484][768]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2021.10.22-23.07.11:484][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.008253s)
+[2021.10.22-23.07.11:502][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.10.22-23.07.11:503][768]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2021.10.22-23.07.11:503][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.07.11:503][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.07.11:503][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.07.11:503][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.07.11:503][768]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.07.11:503][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.07.11:503][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.07.11:503][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.07.11:503][768]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.07.11:503][768]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.07.11:507][768]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.07.11:507][768]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.07.11:522][768]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.07.11:522][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.07.11:523][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.07.11:523][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.07.11:523][768]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.07.11:523][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.07.11:523][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.07.11:534][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.07.11:534][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.07.11:534][768]LogInit: FAudioDevice initialized.
+[2021.10.22-23.07.11:534][768]LogAudio: Display: Audio Device (ID: 38) registered with world 'NewMap'.
+[2021.10.22-23.07.11:541][768]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.07.11:543][768]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.07.11
+[2021.10.22-23.07.11:543][768]LogWorld: Bringing up level for play took: 0.000963
+[2021.10.22-23.07.11:543][768]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.10.22-23.07.11:545][768]PIE: Server logged in
+[2021.10.22-23.07.11:546][768]PIE: Play in editor total start time 0,102 seconds.
+[2021.10.22-23.07.36:281][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.07.36:281][729]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.07.36:281][729]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.07.36:282][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.07.36:293][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.07.36:308][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.07.36:323][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.07.36:324][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.07.36:325][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.07.36:340][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.22-23.07.36:371][730]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.10.22-23.07.37:578][872]LogEditorViewport: Clicking on Actor (LMB): Fan_C (Fan3)
+[2021.10.22-23.08.13:876][955]BlueprintLog: New page: Compile Fan
+[2021.10.22-23.08.13:920][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.10.22-23.08.14:496][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/Fan" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset" SILENT=true
+[2021.10.22-23.08.14:532][999]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/FanBCE1F6CE435AFDAE8371D1B49AFC9378.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset'
+[2021.10.22-23.08.14:544][999]AssetCheck: New page: Asset Save: Fan
+[2021.10.22-23.08.14:544][999]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/Fan.Fan
+[2021.10.22-23.08.17:470][315]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.08.17:476][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.08.17:476][315]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:08:17)
+[2021.10.22-23.08.17:513][315]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.08.17:521][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007134s)
+[2021.10.22-23.08.17:522][315]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.08.17:522][315]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2021.10.22-23.08.17:522][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.008360s)
+[2021.10.22-23.08.17:541][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.10.22-23.08.17:542][315]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2021.10.22-23.08.17:542][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.08.17:542][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.08.17:542][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.08.17:542][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.08.17:542][315]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.08.17:542][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.08.17:543][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.08.17:543][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.08.17:543][315]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.08.17:543][315]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.08.17:546][315]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.08.17:546][315]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.08.17:562][315]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.08.17:562][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.08.17:562][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.08.17:562][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.08.17:563][315]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.08.17:563][315]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.08.17:563][315]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.08.17:573][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.08.17:574][315]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.08.17:574][315]LogInit: FAudioDevice initialized.
+[2021.10.22-23.08.17:574][315]LogAudio: Display: Audio Device (ID: 39) registered with world 'NewMap'.
+[2021.10.22-23.08.17:580][315]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.08.17:581][315]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.08.17
+[2021.10.22-23.08.17:581][315]LogWorld: Bringing up level for play took: 0.001004
+[2021.10.22-23.08.17:581][315]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.10.22-23.08.17:584][315]PIE: Server logged in
+[2021.10.22-23.08.17:585][315]PIE: Play in editor total start time 0,111 seconds.
+[2021.10.22-23.08.22:406][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.08.22:406][885]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.08.22:407][885]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.08.22:407][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.08.22:417][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.08.22:424][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.08.22:440][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-23.08.22:440][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.08.22:441][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.08.22:454][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.08.22:456][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.22-23.08.22:481][886]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.10.22-23.08.33:613][110]BlueprintLog: New page: Compile Fan
+[2021.10.22-23.08.33:659][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.22-23.08.34:131][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/Fan" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset" SILENT=true
+[2021.10.22-23.08.34:166][148]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/FanA0E90E4E4A9175F2CD206E8DCCB444F0.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Fan.uasset'
+[2021.10.22-23.08.34:180][148]AssetCheck: New page: Asset Save: Fan
+[2021.10.22-23.08.34:180][148]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/Fan.Fan
+[2021.10.22-23.08.34:777][210]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.08.34:783][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.08.34:784][210]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:08:34)
+[2021.10.22-23.08.34:784][210]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.08.34:792][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008405s)
+[2021.10.22-23.08.34:793][210]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.08.34:793][210]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2021.10.22-23.08.34:793][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.009790s)
+[2021.10.22-23.08.34:812][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.10.22-23.08.34:813][210]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2021.10.22-23.08.34:813][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.08.34:813][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.08.34:813][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.08.34:813][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.08.34:813][210]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.08.34:813][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.08.34:813][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.08.34:813][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.08.34:814][210]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.08.34:814][210]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.08.34:817][210]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.08.34:817][210]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.08.34:832][210]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.08.34:832][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.08.34:832][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.08.34:832][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.08.34:833][210]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.08.34:833][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.08.34:833][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.08.34:844][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.08.34:844][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.08.34:844][210]LogInit: FAudioDevice initialized.
+[2021.10.22-23.08.34:844][210]LogAudio: Display: Audio Device (ID: 40) registered with world 'NewMap'.
+[2021.10.22-23.08.34:883][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.08.34:883][210]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.08.34:885][210]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.08.34
+[2021.10.22-23.08.34:885][210]LogWorld: Bringing up level for play took: 0.001431
+[2021.10.22-23.08.34:885][210]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.10.22-23.08.34:889][210]PIE: Server logged in
+[2021.10.22-23.08.34:889][210]PIE: Play in editor total start time 0,107 seconds.
+[2021.10.22-23.08.51:140][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.08.51:140][143]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.08.51:141][143]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-23.08.51:147][143]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.08.51:147][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.08.51:154][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.08.51:162][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.08.51:179][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-23.08.51:179][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.08.51:180][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.08.51:195][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.22-23.08.51:229][144]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.10.22-23.09.27:232][115]LogActorFactory: Actor Factory created Plane
+[2021.10.22-23.09.28:023][192]LogActorFactory: Actor Factory created Plane
+[2021.10.22-23.09.28:781][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-23.09.29:587][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.22-23.09.33:279][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-23.09.33:298][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.10.22-23.09.33:424][791]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap31B5E69F466ADD8F0D8D0FB4016C4A55.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.22-23.09.33:431][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.22-23.09.33:464][791]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltData0120C64949097CBE5EC106AED4B158CE.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.22-23.09.33:479][791]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-23.09.33:479][791]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.22-23.09.33:480][791]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.22-23.09.34:022][846]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.09.34:028][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.09.34:028][846]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:09:34)
+[2021.10.22-23.09.34:062][846]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.09.34:070][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007202s)
+[2021.10.22-23.09.34:072][846]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.09.34:072][846]LogPlayLevel: PIE: World Init took: (0.001558s)
+[2021.10.22-23.09.34:072][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.008962s)
+[2021.10.22-23.09.34:091][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.22-23.09.34:091][846]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2021.10.22-23.09.34:091][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.09.34:091][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.09.34:092][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.09.34:092][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.09.34:092][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.09.34:092][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.09.34:092][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.09.34:092][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.09.34:092][846]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.09.34:092][846]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.09.34:095][846]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.09.34:095][846]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.09.34:111][846]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.09.34:111][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.09.34:111][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.09.34:111][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.09.34:112][846]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.09.34:112][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.09.34:112][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.09.34:123][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.09.34:123][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.09.34:123][846]LogInit: FAudioDevice initialized.
+[2021.10.22-23.09.34:123][846]LogAudio: Display: Audio Device (ID: 41) registered with world 'NewMap'.
+[2021.10.22-23.09.34:134][846]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.09.34:136][846]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.09.34
+[2021.10.22-23.09.34:136][846]LogWorld: Bringing up level for play took: 0.001341
+[2021.10.22-23.09.34:136][846]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.10.22-23.09.34:139][846]PIE: Server logged in
+[2021.10.22-23.09.34:139][846]PIE: Play in editor total start time 0,113 seconds.
+[2021.10.22-23.09.36:345][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.09.36:345][100]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.09.36:345][100]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.09.36:346][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.09.36:355][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.09.36:369][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.09.36:385][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.09.36:385][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.09.36:386][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.09.36:401][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.22-23.09.36:430][101]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.10.22-23.09.37:695][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-23.09.38:453][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-23.09.39:030][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.22-23.09.44:761][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-23.09.44:782][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.10.22-23.09.44:897][ 33]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap3F48F26E4722234CDC545A930D60B0CB.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.22-23.09.44:903][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.22-23.09.44:922][ 33]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltData90F103934EE4688E0E82EC84A7DA81B0.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.22-23.09.44:939][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-23.09.44:939][ 33]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.22-23.09.44:939][ 33]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.22-23.09.45:346][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.09.45:352][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.09.45:352][ 74]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:09:45)
+[2021.10.22-23.09.45:374][ 74]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.09.45:381][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007310s)
+[2021.10.22-23.09.45:382][ 74]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.09.45:382][ 74]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2021.10.22-23.09.45:382][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.008470s)
+[2021.10.22-23.09.45:401][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.22-23.09.45:401][ 74]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2021.10.22-23.09.45:401][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.09.45:401][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.09.45:401][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.09.45:401][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.09.45:401][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.09.45:401][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.09.45:401][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.09.45:401][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.09.45:402][ 74]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.09.45:402][ 74]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.09.45:405][ 74]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.09.45:405][ 74]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.09.45:420][ 74]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.09.45:420][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.09.45:420][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.09.45:421][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.09.45:421][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.09.45:421][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.09.45:421][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.09.45:432][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.09.45:432][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.09.45:432][ 74]LogInit: FAudioDevice initialized.
+[2021.10.22-23.09.45:432][ 74]LogAudio: Display: Audio Device (ID: 42) registered with world 'NewMap'.
+[2021.10.22-23.09.45:442][ 74]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.09.45:444][ 74]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.09.45
+[2021.10.22-23.09.45:444][ 74]LogWorld: Bringing up level for play took: 0.001191
+[2021.10.22-23.09.45:444][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.10.22-23.09.45:446][ 74]PIE: Server logged in
+[2021.10.22-23.09.45:447][ 74]PIE: Play in editor total start time 0,096 seconds.
+[2021.10.22-23.09.52:917][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.09.52:917][964]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.09.52:917][964]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.09.52:917][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.09.52:925][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.09.52:939][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.09.52:954][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.09.52:955][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.09.52:956][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.09.52:971][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.22-23.09.52:999][965]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.10.22-23.10.07:306][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-23.10.10:364][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.22-23.10.11:368][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-23.10.13:248][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.22-23.10.14:411][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-23.10.16:482][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.22-23.10.20:044][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-23.10.21:771][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.22-23.10.26:871][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-23.10.26:889][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.10.22-23.10.27:020][699]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMapD6ABA34B455D6275525E0DA5C53382E3.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.22-23.10.27:026][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.22-23.10.27:045][699]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltDataA5C45F764E8B17F9F40CC2926D2D3605.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.22-23.10.27:057][699]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-23.10.27:057][699]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.22-23.10.27:057][699]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.22-23.10.28:158][820]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.10.28:164][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.10.28:164][820]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:10:28)
+[2021.10.22-23.10.28:190][820]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.10.28:197][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007214s)
+[2021.10.22-23.10.28:198][820]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.10.28:198][820]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2021.10.22-23.10.28:198][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.008336s)
+[2021.10.22-23.10.28:216][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.22-23.10.28:217][820]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2021.10.22-23.10.28:217][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.10.28:217][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.10.28:217][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.10.28:217][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.10.28:217][820]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.10.28:218][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.10.28:218][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.10.28:218][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.10.28:218][820]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.10.28:218][820]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.10.28:221][820]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.10.28:221][820]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.10.28:237][820]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.10.28:237][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.10.28:237][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.10.28:237][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.10.28:237][820]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.10.28:237][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.10.28:237][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.10.28:248][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.10.28:248][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.10.28:248][820]LogInit: FAudioDevice initialized.
+[2021.10.22-23.10.28:248][820]LogAudio: Display: Audio Device (ID: 43) registered with world 'NewMap'.
+[2021.10.22-23.10.28:257][820]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.10.28:259][820]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.10.28
+[2021.10.22-23.10.28:259][820]LogWorld: Bringing up level for play took: 0.001202
+[2021.10.22-23.10.28:259][820]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.10.22-23.10.28:261][820]PIE: Server logged in
+[2021.10.22-23.10.28:262][820]PIE: Play in editor total start time 0,1 seconds.
+[2021.10.22-23.10.34:992][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.10.34:992][613]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.10.34:992][613]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.10.34:993][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.10.35:000][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.10.35:014][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.10.35:030][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.10.35:031][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.10.35:032][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.10.35:046][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.22-23.10.35:075][614]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.10.22-23.10.54:971][977]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.22-23.11.04:584][663]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.22-23.11.04:592][663]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.10.22-23.11.04:603][663]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.10.22-23.11.10:249][148]LogContentBrowser: Attempting asset rename: NewBlueprint -> SwitchPoint
+[2021.10.22-23.11.10:253][148]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.10.22-23.11.14:422][473]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexey/Interaction/SwitchPoint.SwitchPoint
+[2021.10.22-23.11.59:927][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.10.22-23.12.00:760][458]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.22-23.12.00:806][458]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.12.00:806][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.12.00:846][458]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Alexey/Interaction/SwitchPoint.SwitchPoint
+[2021.10.22-23.12.01:588][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.22-23.12.08:863][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.22-23.12.13:298][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-23.12.13:961][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.22-23.12.16:611][ 94]Cmd: DELETE
+[2021.10.22-23.12.16:611][ 94]Cmd: ACTOR DELETE
+[2021.10.22-23.12.16:613][ 94]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.22-23.12.16:632][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.10.22-23.12.16:635][ 94]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.10.22-23.12.23:165][753]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexey/Interaction/TestBaseLamp.TestBaseLamp
+[2021.10.22-23.12.36:212][154]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.12.36:212][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.12.40:626][415]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.22-23.12.40:637][415]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.10.22-23.12.40:646][415]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.10.22-23.12.40:705][419]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.10.22-23.12.40:708][419]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.10.22-23.12.41:865][531]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexey/Interaction/NewBlueprint.NewBlueprint
+[2021.10.22-23.12.53:377][696]LogContentBrowser: Attempting asset rename: NewBlueprint -> Switchpoint
+[2021.10.22-23.12.53:402][696]LogMetaData: Removing '/Game/Alexey/Interaction/Switchpoint.Switchpoint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Alexey/Interaction/NewBlueprint.PackageMetaData'
+[2021.10.22-23.12.53:402][696]LogMetaData: Removing '/Game/Alexey/Interaction/Switchpoint.SKEL_Switchpoint_C:UserConstructionScript' ref from Metadata '/Game/Alexey/Interaction/NewBlueprint.PackageMetaData'
+[2021.10.22-23.12.53:402][696]LogMetaData: Removing '/Game/Alexey/Interaction/Switchpoint.SKEL_Switchpoint_C' ref from Metadata '/Game/Alexey/Interaction/NewBlueprint.PackageMetaData'
+[2021.10.22-23.12.53:402][696]LogMetaData: Removing '/Game/Alexey/Interaction/Switchpoint.Switchpoint_C' ref from Metadata '/Game/Alexey/Interaction/NewBlueprint.PackageMetaData'
+[2021.10.22-23.12.53:402][696]LogMetaData: Removing '/Game/Alexey/Interaction/Switchpoint.Switchpoint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Alexey/Interaction/NewBlueprint.PackageMetaData'
+[2021.10.22-23.12.53:402][696]LogMetaData: Removing '/Game/Alexey/Interaction/Switchpoint.Switchpoint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Alexey/Interaction/NewBlueprint.PackageMetaData'
+[2021.10.22-23.12.53:402][696]LogMetaData: Removing '/Game/Alexey/Interaction/Switchpoint.Switchpoint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Alexey/Interaction/NewBlueprint.PackageMetaData'
+[2021.10.22-23.12.53:431][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/Switchpoint" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Switchpoint.uasset" SILENT=true
+[2021.10.22-23.12.53:440][696]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/Switchpoint4F3514674BD6CBED005C4E8998A7CD90.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Switchpoint.uasset'
+[2021.10.22-23.12.53:539][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.22-23.12.53:568][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.10.22-23.12.53:586][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.10.22-23.12.53:618][696]AssetCheck: New page: Asset Save: Switchpoint
+[2021.10.22-23.12.53:618][696]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/Switchpoint.Switchpoint
+[2021.10.22-23.13.46:326][283]BlueprintLog: New page: Compile Switchpoint
+[2021.10.22-23.13.46:385][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.10.22-23.13.58:670][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-23.14.01:534][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-23.14.01:564][904]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.10.22-23.14.01:694][904]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMapFF7D3738409532038809F9AF79769CE9.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.22-23.14.01:700][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.22-23.14.01:719][904]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltDataA84B48284150235097EF569C257C7695.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.22-23.14.01:737][904]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-23.14.01:737][904]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.22-23.14.01:737][904]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.22-23.14.02:209][949]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.14.02:215][949]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.22-23.14.02:215][949]LogPlayLevel: [PlayLevel] Compiling TestBaseLamp before play...
+[2021.10.22-23.14.02:257][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.10.22-23.14.02:258][949]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2021.10.22-23.14.02:258][949]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:14:02)
+[2021.10.22-23.14.02:258][949]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.14.02:265][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007227s)
+[2021.10.22-23.14.02:266][949]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.14.02:266][949]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2021.10.22-23.14.02:266][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.008203s)
+[2021.10.22-23.14.02:289][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.10.22-23.14.02:289][949]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2021.10.22-23.14.02:290][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.14.02:290][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.14.02:290][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.14.02:290][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.14.02:290][949]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.14.02:290][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.14.02:290][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.14.02:290][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.14.02:290][949]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.14.02:290][949]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.14.02:294][949]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.14.02:294][949]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.14.02:310][949]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.14.02:310][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.14.02:310][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.14.02:310][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.14.02:310][949]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.14.02:310][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.14.02:310][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.14.02:322][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.14.02:322][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.14.02:322][949]LogInit: FAudioDevice initialized.
+[2021.10.22-23.14.02:322][949]LogAudio: Display: Audio Device (ID: 44) registered with world 'NewMap'.
+[2021.10.22-23.14.02:328][949]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.14.02:330][949]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.14.02
+[2021.10.22-23.14.02:330][949]LogWorld: Bringing up level for play took: 0.001206
+[2021.10.22-23.14.02:330][949]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.10.22-23.14.02:332][949]PIE: Server logged in
+[2021.10.22-23.14.02:333][949]PIE: Play in editor total start time 0,12 seconds.
+[2021.10.22-23.14.06:587][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.14.06:587][452]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.14.06:587][452]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.14.06:587][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.14.06:597][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.14.06:612][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.14.06:632][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.14.06:633][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.14.06:634][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.14.06:649][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.10.22-23.14.06:679][453]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.10.22-23.14.43:184][545]LogPhysics: Warning: Scale for /Game/Alexey/Levels/NewMap.NewMap:PersistentLevel.Switchpoint_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.152 Y=2.490 Z=0.000
+[2021.10.22-23.14.43:184][545]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.NewBlueprint_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.152 Y=2.490 Z=0.000
+[2021.10.22-23.14.43:483][581]LogPhysics: Warning: Scale for /Game/Alexey/Levels/NewMap.NewMap:PersistentLevel.Switchpoint_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.152 Y=2.490 Z=0.000
+[2021.10.22-23.14.43:483][581]LogPhysics: Warning: Scale for /Engine/Transient.World_17:PersistentLevel.NewBlueprint_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.152 Y=2.490 Z=0.000
+[2021.10.22-23.15.03:989][  2]BlueprintLog: New page: Compile Switchpoint
+[2021.10.22-23.15.04:029][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.10.22-23.16.48:900][473]BlueprintLog: New page: Compile Switchpoint
+[2021.10.22-23.16.48:971][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.10.22-23.16.49:529][521]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.16.49:535][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.16.49:535][521]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:16:49)
+[2021.10.22-23.16.49:535][521]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.16.49:543][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007633s)
+[2021.10.22-23.16.49:544][521]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.16.49:544][521]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2021.10.22-23.16.49:544][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.009052s)
+[2021.10.22-23.16.49:569][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.10.22-23.16.49:570][521]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2021.10.22-23.16.49:570][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.16.49:570][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.16.49:570][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.16.49:570][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.16.49:570][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.16.49:570][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.16.49:570][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.16.49:570][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.16.49:570][521]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.16.49:570][521]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.16.49:574][521]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.16.49:574][521]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.16.49:590][521]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.16.49:591][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.16.49:591][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.16.49:591][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.16.49:591][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.16.49:591][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.16.49:591][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.16.49:602][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.16.49:602][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.16.49:602][521]LogInit: FAudioDevice initialized.
+[2021.10.22-23.16.49:602][521]LogAudio: Display: Audio Device (ID: 45) registered with world 'NewMap'.
+[2021.10.22-23.16.49:648][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.16.49:648][521]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.16.49:650][521]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.16.49
+[2021.10.22-23.16.49:650][521]LogWorld: Bringing up level for play took: 0.001252
+[2021.10.22-23.16.49:650][521]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.10.22-23.16.49:653][521]PIE: Server logged in
+[2021.10.22-23.16.49:654][521]PIE: Play in editor total start time 0,12 seconds.
+[2021.10.22-23.16.58:308][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.16.58:308][544]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.16.58:308][544]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-23.16.58:315][544]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.16.58:315][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.16.58:325][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.16.58:340][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.16.58:362][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-23.16.58:362][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.16.58:363][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.16.58:381][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.10.22-23.16.58:397][545]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.10.22-23.17.13:374][265]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.22-23.17.14:456][384]BlueprintLog: New page: Compile Switchpoint
+[2021.10.22-23.17.14:512][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.10.22-23.17.15:123][444]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.17.15:129][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.17.15:129][444]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:17:15)
+[2021.10.22-23.17.15:129][444]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.17.15:136][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007317s)
+[2021.10.22-23.17.15:137][444]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.17.15:137][444]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2021.10.22-23.17.15:137][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.008398s)
+[2021.10.22-23.17.15:162][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.10.22-23.17.15:162][444]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2021.10.22-23.17.15:163][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.17.15:163][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.17.15:163][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.17.15:163][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.17.15:163][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.17.15:163][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.17.15:163][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.17.15:163][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.17.15:163][444]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.17.15:163][444]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.17.15:167][444]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.17.15:167][444]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.17.15:182][444]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.17.15:182][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.17.15:182][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.17.15:182][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.17.15:183][444]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.17.15:183][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.17.15:183][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.17.15:193][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.17.15:193][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.17.15:193][444]LogInit: FAudioDevice initialized.
+[2021.10.22-23.17.15:193][444]LogAudio: Display: Audio Device (ID: 46) registered with world 'NewMap'.
+[2021.10.22-23.17.15:230][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.17.15:230][444]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.17.15:232][444]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.17.15
+[2021.10.22-23.17.15:232][444]LogWorld: Bringing up level for play took: 0.001683
+[2021.10.22-23.17.15:233][444]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.10.22-23.17.15:236][444]PIE: Server logged in
+[2021.10.22-23.17.15:236][444]PIE: Play in editor total start time 0,11 seconds.
+[2021.10.22-23.17.20:020][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.17.20:020][ 10]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.17.20:021][ 10]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-23.17.20:026][ 10]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.17.20:026][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.17.20:039][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.17.20:054][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.17.20:076][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-23.17.20:076][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.17.20:077][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.17.20:093][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.10.22-23.17.20:105][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.10.22-23.17.30:150][115]BlueprintLog: New page: Compile Switchpoint
+[2021.10.22-23.17.30:199][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.10.22-23.19.42:446][646]LogSlate: Took 0.000503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.10.22-23.19.59:094][387]BlueprintLog: New page: Compile Switchpoint
+[2021.10.22-23.19.59:138][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.10.22-23.20.00:197][497]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-23.20.00:203][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-23.20.00:203][497]PIE: New page: PIE session: NewMap (23 окт. 2021 г., 05:20:00)
+[2021.10.22-23.20.00:203][497]LogPlayLevel: Creating play world package: /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.20.00:211][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007348s)
+[2021.10.22-23.20.00:211][497]LogAIModule: Creating AISystem for world NewMap
+[2021.10.22-23.20.00:212][497]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2021.10.22-23.20.00:212][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alexey/Levels/NewMap.NewMap to /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap (0.008525s)
+[2021.10.22-23.20.00:237][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.10.22-23.20.00:237][497]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2021.10.22-23.20.00:237][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-23.20.00:237][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-23.20.00:237][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-23.20.00:237][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-23.20.00:237][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-23.20.00:237][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-23.20.00:237][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-23.20.00:237][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-23.20.00:238][497]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-23.20.00:238][497]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-23.20.00:241][497]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-23.20.00:241][497]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-23.20.00:257][497]LogAudioMixer: Display: Using Audio Device Динамики (Storm Pro)
+[2021.10.22-23.20.00:257][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-23.20.00:257][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-23.20.00:257][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-23.20.00:257][497]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-23.20.00:257][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-23.20.00:257][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-23.20.00:269][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-23.20.00:269][497]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-23.20.00:269][497]LogInit: FAudioDevice initialized.
+[2021.10.22-23.20.00:269][497]LogAudio: Display: Audio Device (ID: 47) registered with world 'NewMap'.
+[2021.10.22-23.20.00:316][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.20.00:316][497]LogLoad: Game class is 'MainGM_C'
+[2021.10.22-23.20.00:318][497]LogWorld: Bringing World /Game/Alexey/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.10.23-02.20.00
+[2021.10.22-23.20.00:318][497]LogWorld: Bringing up level for play took: 0.001288
+[2021.10.22-23.20.00:318][497]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.10.22-23.20.00:321][497]PIE: Server logged in
+[2021.10.22-23.20.00:322][497]PIE: Play in editor total start time 0,12 seconds.
+[2021.10.22-23.20.03:259][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-23.20.03:259][838]LogWorld: BeginTearingDown for /Game/Alexey/Levels/UEDPIE_0_NewMap
+[2021.10.22-23.20.03:260][838]LogSlate: Window 'Alexey Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.22-23.20.03:269][838]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-23.20.03:269][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.20.03:281][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-23.20.03:297][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-23.20.03:318][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.20.03:319][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-23.20.03:335][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.10.22-23.20.03:351][839]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.10.22-23.20.54:662][285]BlueprintLog: New page: Compile Switchpoint
+[2021.10.22-23.20.54:704][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.10.22-23.20.55:116][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Interaction/Switchpoint" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Switchpoint.uasset" SILENT=true
+[2021.10.22-23.20.55:138][322]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/SwitchpointF4E465E34AA22BAFEE5F1DA6EBECB4A0.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Interaction/Switchpoint.uasset'
+[2021.10.22-23.20.55:152][322]AssetCheck: New page: Asset Save: Switchpoint
+[2021.10.22-23.20.55:152][322]LogContentValidation: Display: Validating Blueprint /Game/Alexey/Interaction/Switchpoint.Switchpoint
+[2021.10.22-23.20.56:310][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-23.20.56:336][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.10.22-23.20.56:479][451]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMapBCDDE8ED42C566EB1C5A40910E1BCE6B.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap.umap'
+[2021.10.22-23.20.56:485][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/Levels/NewMap_BuiltData" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.22-23.20.56:506][451]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/NewMap_BuiltData511FEBF14AD7F79F0549A990FEC03277.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/Levels/NewMap_BuiltData.uasset'
+[2021.10.22-23.20.56:517][451]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-23.20.56:517][451]LogContentValidation: Display: Validating World /Game/Alexey/Levels/NewMap.NewMap
+[2021.10.22-23.20.56:517][451]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Alexey/Levels/NewMap_BuiltData.NewMap_BuiltData
