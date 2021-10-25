@@ -20004,3 +20004,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.25-21.54.27:394][161]LogSlate: Window 'Color Picker' being destroyed
 [2021.10.25-21.55.27:821][963]BlueprintLog: New page: Compile MainWidget
 [2021.10.25-21.55.27:868][963]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.10.25-21.56.22:467][212]BlueprintLog: New page: Compile MainWidget
+[2021.10.25-21.56.22:511][212]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.10.25-21.57.12:977][601]LogSlate: Took 0.003664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.10.25-22.01.08:705][443]BlueprintLog: New page: Compile MainWidget
+[2021.10.25-22.01.08:753][443]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2021.10.25-22.01.58:274][135]BlueprintLog: New page: Compile MainWidget
+[2021.10.25-22.01.58:319][135]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2021.10.25-22.02.02:201][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexey/UIX/MainWidget" FILE="../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/UIX/MainWidget.uasset" SILENT=true
+[2021.10.25-22.02.02:219][549]LogSavePackage: Moving '../../../../../../gamedev/UE4_project/Alexey/Saved/MainWidget6AC8172247F4942292B0F7AA491DC5DA.tmp' to '../../../../../../gamedev/UE4_project/Alexey/Content/Alexey/UIX/MainWidget.uasset'
+[2021.10.25-22.02.02:237][549]AssetCheck: New page: Asset Save: MainWidget
+[2021.10.25-22.02.02:237][549]LogContentValidation: Display: Validating WidgetBlueprint /Game/Alexey/UIX/MainWidget.MainWidget
