@@ -1,2 +1,0 @@
-EU4Game.exe
-EU4Game.pdb
